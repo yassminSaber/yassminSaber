@@ -2,7 +2,7 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <br>
   <br>
-  <img src="https://camo.githubusercontent.com/57d23ae617d59de5040f5f5bebad81f4dc233c2aad174e5a6214c29ed23dee29/68747470733a2f2f6d656469612e74656e6f722e636f6d2f70506f556d69305a31665541414141432f6361742d7065742e676966" width="120px" />
+  <img src="https://camo.githubusercontent.com/57d23ae617d59de5040f5f5bebad81f4dc233c2aad174e5a6214c29ed23dee29/68747470733a2f2f6d656469612e74656e6f722e636f6d2f70506f556d69305a31665541414141432f6361742d7065742e676966" width="150px" />
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!+It's+Yasmine!;I'm+a+Machine+Learning+Engineer+Freelancer...)](https://git.io/typing-svg)
@@ -33,6 +33,6 @@
 &emsp;
 <a target="_blank" href="yasminesaber26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a href = 'https://www.kaggle.com/yassminsaber'> <img width = '32px' align= 'center' src="https://github.com/yassminSaber/yassminSaber/blob/main/kaggleIcon.png"/></a> 
+<a href = 'https://www.kaggle.com/yassminsaber'> <img width = '64px' align= 'center' src="https://github.com/yassminSaber/yassminSaber/blob/main/kaggleIcon.png"/></a> 
 &emsp;
 <br>
