@@ -2,7 +2,8 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <br>
   <br>
-  <img src="https://camo.githubusercontent.com/57d23ae617d59de5040f5f5bebad81f4dc233c2aad174e5a6214c29ed23dee29/68747470733a2f2f6d656469612e74656e6f722e636f6d2f70506f556d69305a31665541414141432f6361742d7065742e676966" width="150px" />
+ <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!+It's+Yasmine!;I'm+a+Machine+Learning+Engineer+Freelancer...)](https://git.io/typing-svg)
@@ -10,7 +11,6 @@
 
 <h2> About Me <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as **Machine Learning Engineer Freelancer**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **D𝚊𝚝𝚊 engineering.**
