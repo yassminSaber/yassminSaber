@@ -27,7 +27,7 @@
 <a href= https://github.com/yassminSaber?tab=repositories&q=&type=&language=python&sort=> <img width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg"> </a>
 
 
-<p>Connect with me on
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/yasmeen-saber-12598a282/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
