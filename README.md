@@ -5,8 +5,8 @@
   <img src="https://camo.githubusercontent.com/57d23ae617d59de5040f5f5bebad81f4dc233c2aad174e5a6214c29ed23dee29/68747470733a2f2f6d656469612e74656e6f722e636f6d2f70506f556d69305a31665541414141432f6361742d7065742e676966" width="120px" />
 </h1>
 
-<div size='20px'> Hi! My name is Yasmine Saber, Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Yasmine!;I'm+a+Machine+Learning+Engineer+Freelancer...)](https://git.io/typing-svg)
+
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
