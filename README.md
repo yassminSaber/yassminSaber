@@ -26,15 +26,13 @@
 <a href= https://github.com/yassminSaber?tab=repositories&q=&type=&language=python&sort=> <img width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"> </a>
 <a href= https://github.com/yassminSaber?tab=repositories&q=&type=&language=python&sort=> <img width="32px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg"> </a>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/yasmeen-saber-12598a282/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.kaggle.com/yassminsaber'> <img width = '32px' align= 'center' src="https://github.com/yassminSaber/yassminSaber/blob/main/kaggleIcon.png"/></a> 
 
 <p>Connect with me on
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/yasmeen-saber-12598a282/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="yasminesaber26@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="yasminesaber26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<a href = 'https://www.kaggle.com/yassminsaber'> <img width = '32px' align= 'center' src="https://github.com/yassminSaber/yassminSaber/blob/main/kaggleIcon.png"/></a> 
 &emsp;
 <br>
