@@ -7,7 +7,7 @@
 
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!+It's+Yasmine!;I'm+a+Data+Engineer...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Hey!+It's+Yasmine!;I'm+working+as+a+Data+Engineer...)](https://git.io/typing-svg)
 
 
 <h2> About Me  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></h2>
